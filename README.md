@@ -19,17 +19,7 @@ O objetivo principal deste projeto foi aplicar os conceitos aprendidos durante o
 - Armazenamento seguro das informações de contato, garantindo a privacidade dos usuários.
 - Validação de entrada para garantir que os dados inseridos sejam corretos e coerentes.
 
-## Como Utilizar
 
-1. Clone este repositório para sua máquina local usando o seguinte comando:
-   <br/>
-    git clone https://github.com/seu-usuario/Projeto2_Agenda.git
-
-2.Certifique-se de ter um ambiente de desenvolvimento PHP configurado em sua máquina.
-
-3. Navegue até o diretório do projeto:
-   cd Projeto2_Agenda
-4.Configure o banco de dados de sua escolha (MySQL) e atualize as informações de conexão no arquivo de configuração.
 
 
 
