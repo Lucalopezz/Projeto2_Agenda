@@ -19,7 +19,9 @@ O objetivo principal deste projeto foi aplicar os conceitos aprendidos durante o
 - Armazenamento seguro das informações de contato, garantindo a privacidade dos usuários.
 - Validação de entrada para garantir que os dados inseridos sejam corretos e coerentes.
 
+## Autor
 
+Este projeto foi desenvolvido por Lucas. A partir do curso do Hora de Codar
 
 
 
