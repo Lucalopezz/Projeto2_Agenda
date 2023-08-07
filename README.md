@@ -22,6 +22,7 @@ O objetivo principal deste projeto foi aplicar os conceitos aprendidos durante o
 ## Como Utilizar
 
 1. Clone este repositório para sua máquina local usando o seguinte comando:
+   <br/>
     git clone https://github.com/seu-usuario/Projeto2_Agenda.git
 
 2.Certifique-se de ter um ambiente de desenvolvimento PHP configurado em sua máquina.
