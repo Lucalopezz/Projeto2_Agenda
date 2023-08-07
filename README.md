@@ -1,7 +1,7 @@
 
 # Projeto2_Agenda - Segundo Projeto do Curso de PHP
 
-Bem-vindo ao repositório do **Projeto2_Agenda**, o segundo projeto desenvolvido como parte do nosso curso de PHP. Neste projeto, criamos uma aplicação de agenda simples, onde os usuários podem armazenar e gerenciar informações de contatos de forma eficiente.
+Bem-vindo ao repositório do **Projeto2_Agenda**, o segundo projeto desenvolvido como parte do curso de PHP que estou fazendo. Neste projeto, fiz uma aplicação de agenda simples, onde os usuários podem armazenar e gerenciar informações de contatos de forma eficiente.
 
 ## Descrição do Projeto
 
